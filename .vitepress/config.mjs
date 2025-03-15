@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "ZBC服务器",
   description: "笨蛋学渣什么都没有留下",
-  base: "/zbc-docs/",
+  // base: "/zbc-docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
