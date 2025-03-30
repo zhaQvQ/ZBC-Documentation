@@ -24,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zhaQvQ/zbc-docs' }
+      { icon: 'github', link: 'https://github.com/zhaQvQ/ZBC-Documentation' }
     ]
   }
 })
